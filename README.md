@@ -71,7 +71,3 @@ Processing is at least once: a worker crash or lease expiry can cause repeat exe
 ## Reserved follow-up features
 
 See docs/ROADMAP.md. Kafka, outbox delivery, cancellation, manual replay, metrics and configurable shutdown are intentionally outside this baseline. There are no fake implementations or deliberately inserted bugs. Existing work uses database polling and works independently of these features.
-
-## Provenance
-
-Generated with AI assistance. Do not describe this baseline as exclusively human-authored. Study eligibility must be verified separately. No employer code or real customer data is included.
